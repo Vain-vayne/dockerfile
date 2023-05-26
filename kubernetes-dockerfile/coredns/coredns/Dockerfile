@@ -1,1 +1,1 @@
-FROM coredns/coredns:master
+FROM coredns/coredns
